@@ -1,7 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo22528
-Fork on GitHub7409
 <h1 align="center">Hi 👋, I'm MOHAMMED LAQSOUMI</h1>
 <h3 align="center">A passionate full stack developer from Morrocco</h3>
 
