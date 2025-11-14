@@ -80,29 +80,3 @@ const developer = {
 ![Trophies](https://github-profile-trophy.vercel.app/?username=medlaq777&theme=darkhub&no-frame=true&row=1&column=7)
 
 </div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=medlaq777&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=medlaq777&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=medlaq777&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-<div align="center">
-
-### 💬 Let's Connect!
-
-**Open to collaborating on exciting projects and opportunities**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammed-laqsoumi)
-
-</div>
